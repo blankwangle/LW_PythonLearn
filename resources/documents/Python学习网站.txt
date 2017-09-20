@@ -1,0 +1,4 @@
+http://docs.pythontab.com/
+https://www.shiyanlou.com/courses/?course_type=all&tag=Python&fee=all
+http://www.crifan.com/use_ie9_f12_to_analysis_the_internal_logical_process_of_login_baidu_main_page_website/
+模拟百度登录流程
